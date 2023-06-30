@@ -1,0 +1,20 @@
+body {
+  padding: 20px;
+}
+
+.body-background {
+  background-color: rgb(241, 241, 241);
+}
+
+button {
+  margin-right: 10px;
+}
+
+a {
+  margin-right: 5px;
+}
+
+.frases {
+  font-size: 12;
+  color: antiquewhite;
+}
